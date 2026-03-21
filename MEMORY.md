@@ -34,6 +34,8 @@
 - 重点标注"首个/创新"标签
 - 关键词结合项目情况逐步优化
 - Bird 搜索每个关键词间隔 30 秒防封
+- 2026-03-20 新增关键词：x402 生态、tempo.xyz/tempo chain、MCP token/agent
+- 2026-03-21 新增关键词：TIP-20、tempo mainnet 生态、RedStone+tempo、mpp.dev（主网上线后补充）
 
 ## 监控架构（v2 - 脚本化）
 - Shell 脚本 `scripts/twitter-monitor.sh`：crontab 每 4 小时运行，28 关键词全量搜索，0 AI token
