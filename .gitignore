@@ -1,6 +1,39 @@
+# 本地敏感/运行时文件，不上传 GitHub
+# 只上传 skills/ 相关内容
+
+# 记忆与配置
 .secrets/
 MEMORY.md
 memory/
 
-
+# 运行脚本
 scripts/
+
+# 报告输出
+reports/
+
+# 监控数据
+monitor-data/
+bird-results/
+*.json
+*.log
+*.txt
+
+# 临时文件
+*.py
+*.sh
+*.js
+
+# 工作区配置文件
+SOUL.md
+USER.md
+AGENTS.md
+TOOLS.md
+IDENTITY.md
+HEARTBEAT.md
+BOOTSTRAP.md
+
+# 其他项目目录
+deer-flow/
+alzheimer-data/
+*.skill
